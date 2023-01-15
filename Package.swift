@@ -16,7 +16,7 @@ let package = Package(
         .package(
             name: "MapLibre GL Native",
             url: "https://github.com/maplibre/maplibre-gl-native-distribution.git",
-            .exact("5.12.0")
+            .exact("5.13.0")
         ),
         .package(
             name: "MSAL",
